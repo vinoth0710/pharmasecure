@@ -63,9 +63,6 @@ Here is the demo of our app in form of gifs.
 ![4](https://user-images.githubusercontent.com/32220881/84142713-e7ca2600-aa72-11ea-970e-1a2c23be6b79.gif)
 -------------
 
-### Made by team DJ Hackers
-* [Dhruv Bhagadia](https://github.com/DhruvBhagadia)
-* [Devansh Dalal](https://github.com/da2ash)
-* [Mustafa Bhanpurawala](https://github.com/mustafabhanpura)
+
 
 #### Feedbacks are welcome
